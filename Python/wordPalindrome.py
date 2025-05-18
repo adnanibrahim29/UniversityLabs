@@ -12,4 +12,13 @@ Sample Output
 
 """
 
-text : str = 'navan'
+text : str = 'navan'.lower()
+revCheck : str = ''
+for i in range(len(text) -1, -1, -1):
+    revCheck += text[i]
+    revCheck.lower()
+
+if(text == revCheck):
+    print(f"{text} is a palindrome")
+else:
+    print(f"{text} is NOT a palindrome")
