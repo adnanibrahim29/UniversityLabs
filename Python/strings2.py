@@ -1,5 +1,5 @@
 """ 
-Write a Java program that: Creates a String that refers to “Most guitars have six strings.” Using relevant String methods:
+Write a Python program that: Creates a String that refers to “Most guitars have six strings.” Using relevant String methods:
 
 1. Print the length of the String on a new line.
 2. Print the position of the first occurrence of the character 'h' on a new line.
