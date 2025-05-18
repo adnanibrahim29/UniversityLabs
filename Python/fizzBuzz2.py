@@ -1,5 +1,5 @@
 """ 
-Write a Java program that prints a sequence of messages based on the fizzbuzz rules below. Your program should have two variables called start and end, the range in which to print messages (inclusive).
+Write a Python program that prints a sequence of messages based on the fizzbuzz rules below. Your program should have two variables called start and end, the range in which to print messages (inclusive).
 
 If the value in "num" is divisible by 3, your program should print "fizz".
 If the value in "num" is divisible by 5, your program should print "buzz".

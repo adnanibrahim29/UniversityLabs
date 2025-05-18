@@ -1,5 +1,5 @@
 """ 
-Write a Java program that uses an int variable called num that stores a 4 digit number. 
+Write a Python program that uses an int variable called num that stores a 4 digit number. 
 
 Your program should then break up this number using the modulus operator into its component digits and print the message exactly as given below. 
 

@@ -1,5 +1,5 @@
 """ 
-Write a Java program that prints all of the numbers from 10 to 20 to the screen using a while loop and prints the numbers from 20 to 10 using a for loop
+Write a Python program that prints all of the numbers from 10 to 20 to the screen using a while loop and prints the numbers from 20 to 10 using a for loop
 
 Sample inputs	Sample outputs
 N/A	            10 11 12 13 14 15 16 17 18 19 20
