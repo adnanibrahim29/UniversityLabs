@@ -19,10 +19,10 @@ Sample inputs	Sample outputs
 """
 
 
-start : int = 2
-end : int = 3
+start : int = 10
+end : int = 15
 
-for i in range(start, end + 1, 1):
+for i in range(start, end + 1):
     if(i % 3 == 0 and i % 5 == 0):
         print("fizzbuzz", end=" ")
     elif(i % 3 == 0):
