@@ -1,5 +1,5 @@
 """ 
-Write a Java program that will:
+Write a Python program that will:
 
 Create a String that references “Computer Science”.
 Create a String that references “Education”.
